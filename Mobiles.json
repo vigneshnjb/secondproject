@@ -1,0 +1,28 @@
+{
+    "id":1,
+    "Name":"Iphone",
+    "category":"Mobiles",
+    "ratng":"5.0",
+    "price":"50k",
+},
+{
+    "id":2,
+    "Name":"Redmi",
+    "category":"Mobiles",
+    "ratng":"4.0",
+    "price":"20k",
+},
+{
+    "id":3,
+    "Name":"Samsung",
+    "category":"Mobiles",
+    "ratng":"4.0",
+    "price":"25k",
+},
+{
+    "id":4,
+    "Name":"One plus",
+    "category":"Mobiles",
+    "ratng":"5.3",
+    "price":"50k",
+}

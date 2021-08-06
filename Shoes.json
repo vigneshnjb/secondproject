@@ -1,0 +1,42 @@
+{
+    "id":1,
+    "Name":"Levis",
+    "category":"Shoes",
+    "ratng":"5.0",
+    "price":"750",
+}
+{
+    "id":2,
+    "Name":"Nick",
+    "category":"Shoes",
+    "ratng":"5.0",
+    "price":"750",
+},
+{
+    "id":3,
+    "Name":"Woodland",
+    "category":"Shoes",
+    "ratng":"5.0",
+    "price":"1150",
+},
+{
+    "id":4,
+    "Name":"Leecooper",
+    "category":"shoes",
+    "ratng":"5.0",
+    "price":"1200",
+},
+{
+    "id":5,
+    "Name":"Puma",
+    "category":"shoes",
+    "ratng":"5.0",
+    "price":"1500",
+},
+{
+    "id":6,
+    "Name":"Reebok",
+    "category":"shoes",
+    "ratng":"5.0",
+    "price":"1000",
+}

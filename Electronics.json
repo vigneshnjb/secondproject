@@ -1,0 +1,21 @@
+{
+    "id":1,
+    "Name":"Apple",
+    "category":"Electronics",
+    "ratng":"5.0",
+    "price":"80k to 99k",
+},
+{
+    "id":2,
+    "Name":"Power banks",
+    "category":"Electronics",
+    "ratng":"4.0",
+    "price":"10k to 30k",
+},
+{
+    "id":3,
+    "Name":"cameras",
+    "category":"Electronics",
+    "ratng":"5.0",
+    "price":"45k to 90k",
+}

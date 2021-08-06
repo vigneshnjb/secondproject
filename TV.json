@@ -1,0 +1,21 @@
+{
+    "id":1,
+    "Name":"Sony Bravia",
+    "category":"TV",
+    "ratng":"5.0",
+    "price":"30k to 70k",
+},
+{
+    "id":2,
+    "Name":"Philips",
+    "category":"TV",
+    "ratng":"4.0",
+    "price":"30k to 60k",
+},
+{
+    "id":3,
+    "Name":"Redmi Smart TV",
+    "category":"TV",
+    "ratng":"4.5",
+    "price":"20k to 80k",
+}

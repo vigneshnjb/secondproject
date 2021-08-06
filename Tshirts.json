@@ -1,0 +1,21 @@
+{
+    "id":1,
+    "Name":"Levis",
+    "category":"Tshirt",
+    "ratng":"5.0",
+    "price":"350",
+}
+{
+    "id":2,
+    "Name":"U.S.Polo",
+    "category":"Tshirt",
+    "ratng":"5.0",
+    "price":"450",
+}
+{
+    "id":3,
+    "Name":"American Crew",
+    "category":"Tshirt",
+    "ratng":"5.0",
+    "price":"400",
+},
